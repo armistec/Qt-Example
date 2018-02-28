@@ -6,3 +6,7 @@ To begin, download ESRI App Studio desktop and check out some of the examples pr
 First, create a new App in ESRI App Studio. Then open the code associated with the app in QT Creater.
 
 To begin building map elements, it is first important to add a basemap and chose the type of visualizaiton you would like.
+
+Components:
+1. Display sublayers
+2. Add Legend
